@@ -21,7 +21,7 @@ This  repository containing Group 1 Hackathon links :tada:
   3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)  
   4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)    
   5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro--)
-  
+  6. [Franklyn Muchesia](#franklyn-muchesia--)
 ----
 
 ## Julius Moyi Lomuke  🕵️‍♂️    
@@ -66,11 +66,8 @@ Github Link: https://github.com/moyijulius/myprofile.git
 Name: Edger kegoro<br>
 Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
 Github Link: https://github.com/Edgermartial<br>
+## Franklyn Muchesia
+**Github link:** [https://github.com/FranklynMuch/portfolio.git](https://github.com/FranklynMuch/portfolio)
+**portfolio link**[https://github.com/FranklynMuch/portfolio.git](https://github.com/FranklynMuch/portfolio)
 
 ---
-
-## Dennis Mwangi 🕵️‍♂️ 
-
-Name: Dennis Mwangi <br>
-Portfolio Link: [https://denis7071.github.io/My-Portfolio-Web-Group-21/](https://denis7071.github.io/My-Portfolio-Web-Group-21/)
-Github Link: [https://github.com/denis7071](https://github.com/denis7071)

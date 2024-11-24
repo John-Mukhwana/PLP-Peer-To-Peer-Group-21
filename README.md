@@ -26,12 +26,12 @@ This  repository containing Group 1 Hackathon links :tada:
   - [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)
 
 ----
-## Paste your Name,Portfolio hosted  link,Github link here :
+## Edger omweri kegoro
 --
 ie<br>
-Name:<br>
-Portfolio Link:<br>
-Github Link:<br>
+Name:Edger omweri kegoro<br>
+Portfolio Link:https://github.com/Edgermartial<br>
+Github Link:https://github.com/Edgermartial/plp-hackaton.git<br>
 
 ----
 

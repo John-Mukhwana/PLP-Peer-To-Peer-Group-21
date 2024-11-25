@@ -26,7 +26,7 @@
   9. [Mark John Patel 🕵️‍♀️](#mark-john-patel--)
   10. [Leo Charles 🕵️‍♂️](#leo-charles-)
   11. [ Franklyn Muchesia 🕵️‍♂️ ](#franklyn-muchesia--) 
-
+  12.[ Brian Kiptonui 🕵️‍♂️ ](#brian-kiptonui--)
 
 ----
 
@@ -123,3 +123,7 @@ Github Link:[ https://github.com/FranklynMuch](https://github.com/FranklynMuch)
 Portfolio Link :[https://code.visualstudio.com/docs/editor/settings-sync](https://github.com/FranklynMuch)
 
 ---
+##**Brian kiptonui**
+**Name:**  BRIAN KIPTONUI
+**GitHub Link:**:[https://github.com/Briankkiprono](https://github.com/Briankkiprono)
+Portfolio Link:

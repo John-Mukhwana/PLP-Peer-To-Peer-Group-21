@@ -116,10 +116,11 @@ Name: Leo Charles
 Github Link: [https://github.com/LeoCharles09](https://github.com/LeoCharles09)  
 Portfolio Link: [https://leocharles09.github.io/LeoCharles-Group21/](https://leocharles09.github.io/LeoCharles-Group21/)
 
-## Franklyn Muchesia 🕵️‍♂️
+---
+## Franklyn Muchesia 🕵️‍♂️  
 
-Name: Franklyn Muchesia
-Github Link:[ https://github.com/FranklynMuch](https://github.com/FranklynMuch)
-Portfolio Link :[https://code.visualstudio.com/docs/editor/settings-sync](https://github.com/FranklynMuch)
+Name: Franklyn Muchesia  
+Github Link:[ https://github.com/FranklynMuch](https://github.com/FranklynMuch)  
+Portfolio Link :[https://code.visualstudio.com/docs/editor/settings-sync](https://github.com/FranklynMuch)  
 
 ---
